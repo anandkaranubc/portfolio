@@ -61,3 +61,20 @@
 .learning {
     color: olive;
 }
+
+.footer {
+    margin: 0;
+    padding: 0.5rem;
+    background-color: aliceblue;
+  }
+  
+  .footer .row {
+    margin: 0; 
+    padding: 1rem;
+    background-color: aliceblue;
+  }
+
+  .symbol {
+    width: 50px;
+    height: auto;
+  }
